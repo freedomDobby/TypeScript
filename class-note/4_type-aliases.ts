@@ -14,4 +14,4 @@ var seho : Person={
 }
 
 type MyString = string;
-var str: MyString='hello'
+var str: MyString='hello';
